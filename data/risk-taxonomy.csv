@@ -1,0 +1,11 @@
+dimension,weight,description
+Data sensitivity and volume,0.15,"Classification, volume, data subjects and aggregation risk"
+Privileged/system access,0.15,"Administrative, kernel, identity, security-control or production access"
+Operational criticality,0.15,"Impact on critical products, services and maximum tolerable downtime"
+Connectivity/deployment depth,0.10,"Agents, APIs, network paths, integrations and trust depth"
+Regulatory/legal exposure,0.10,"Privacy, sector, contractual, records and cross-border obligations"
+Substitutability/exit complexity,0.10,"Switching time, portability, lock-in and safe removal"
+Concentration/systemic dependency,0.10,"Common provider, platform, fourth party and single-point dependency"
+Geographic/geopolitical exposure,0.05,"Jurisdiction, sanctions, instability and support locations"
+Financial/strategic dependency,0.05,"Viability, spend, roadmap and strategic reliance"
+AI/model use,0.05,"Training/use of data, autonomy, model providers and decision impact"

@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "TPRM Vendor Record",
+  "type": "object",
+  "required": [
+    "vendor_id",
+    "legal_name",
+    "service_category",
+    "business_owner",
+    "tier",
+    "status"
+  ],
+  "properties": {
+    "vendor_id": { "type": "string" },
+    "legal_name": { "type": "string", "minLength": 1 },
+    "service_category": { "type": "string" },
+    "business_owner": { "type": "string" },
+    "tier": {
+      "enum": [
+        "Tier 1 Critical",
+        "Tier 2 High",
+        "Tier 3 Moderate",
+        "Tier 4 Low",
+        "Unassigned"
+      ]
+    },
+    "status": {
+      "enum": [
+        "Assessment case",
+        "Prospective",
+        "Assessment",
+        "Approved",
+        "Conditionally Approved",
+        "Rejected",
+        "Active",
+        "Exit",
+        "Terminated"
+      ]
+    },
+    "next_assessment": {
+      "type": ["string", "null"],
+      "format": "date"
+    }
+  }
+}

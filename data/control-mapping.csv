@@ -1,0 +1,9 @@
+program_area,NIST_CSF_2_0,NIST_SP_800_161r1,NIST_SP_800_53r5,example_evidence
+Governance,GV.RM; GV.RR; GV.SC,"C-SCRM strategy, policy and plans",SR-1; SR-2; PM-30,"Charter, policy, RACI, committee minutes"
+Supplier inventory and criticality,GV.SC-04; ID.AM,Supply chain information and criticality,SR-3; CM-8,"Vendor register, dependency map, tiering record"
+Due diligence,GV.SC-06; GV.SC-07,Supplier assessment and monitoring,SR-5; SA-9; CA-2,"Questionnaire, assurance report, technical validation"
+Contracting,GV.SC-05,Acquisition strategies and requirements,SR-5; SA-4,"Security schedule, DPA, SLA, audit rights"
+Incident coordination,RS.CO; GV.SC-08,Incident information sharing and response,SR-8; IR-4; IR-6,"Notification clause, exercise, contact roster"
+Continuity and recovery,RC.RP; GV.SC-09,Resilience and recovery,CP-2; CP-4; CP-10; SR-10,"BCP/DR tests, exit plan, restoration results"
+Secure software/update integrity,PR.PS; GV.SC,Software supply chain and provenance,SA-10; SA-15; SR-4; SI-7,"SSDF evidence, SBOM, signed builds, rollout controls"
+Termination,GV.SC-10,Lifecycle and disposal,SR-12; MP-6; AC-2,"Access revocation, deletion certificate, asset return"

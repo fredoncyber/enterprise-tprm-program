@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+evidence/
+confidential/
+*.xlsx
+.DS_Store

@@ -1,0 +1,11 @@
+vendor_id,legal_name,service_category,business_owner,tier,status,next_assessment,data_class,critical_service,fourth_party_concentration,notes
+ES-001,CrowdStrike,Endpoint security,,Unassigned,Assessment case,,TBD,TBD,TBD,Illustrative only; validate current scope and evidence
+ES-002,SentinelOne,Endpoint security,,Unassigned,Assessment case,,TBD,TBD,TBD,Illustrative only; validate current scope and evidence
+ES-003,Microsoft,Endpoint security,,Unassigned,Assessment case,,TBD,TBD,TBD,Illustrative only; validate current scope and evidence
+ES-004,Palo Alto Networks,Endpoint security,,Unassigned,Assessment case,,TBD,TBD,TBD,Illustrative only; validate current scope and evidence
+ES-005,Broadcom,Endpoint security,,Unassigned,Assessment case,,TBD,TBD,TBD,Illustrative only; validate current scope and evidence
+ES-006,Fortinet,Endpoint security,,Unassigned,Assessment case,,TBD,TBD,TBD,Illustrative only; validate current scope and evidence
+ES-007,Trend Micro,Endpoint security,,Unassigned,Assessment case,,TBD,TBD,TBD,Illustrative only; validate current scope and evidence
+ES-008,Sophos,Endpoint security,,Unassigned,Assessment case,,TBD,TBD,TBD,Illustrative only; validate current scope and evidence
+ES-009,Cisco,Endpoint security,,Unassigned,Assessment case,,TBD,TBD,TBD,Illustrative only; validate current scope and evidence
+ES-010,Bitdefender,Endpoint security,,Unassigned,Assessment case,,TBD,TBD,TBD,Illustrative only; validate current scope and evidence
