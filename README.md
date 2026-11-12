@@ -4,6 +4,28 @@ A GitHub-ready, risk-based Third-Party Risk Management (TPRM) program for organi
 
 > **Important:** The named endpoint-security companies in this repository are an illustrative assessment universe. Inclusion does not constitute endorsement, certification, or a product ranking. Assessments must be based on current evidence, contractual scope, deployment architecture, and organizational risk appetite.
 
+## Start here: project in plain language
+
+**The problem:** Organizations rely on outside technology vendors, but need consistent evidence before accepting the security and operational risks.
+
+**The solution demonstrated:** This repository provides a sample vendor-risk program: policy and governance documents, questionnaires, an assessment methodology, sample cases, and Python-based scoring and validation tools.
+
+**The workflow:**
+
+```text
+Request a vendor → Set initial risk level → Review evidence → Decide and document → Monitor
+```
+
+**A quick tour:**
+1. Open the [risk methodology](docs/risk-methodology.md) to understand how risk decisions are made.
+2. Look at the [vendor intake questionnaire](templates/vendor-intake-questionnaire.md) to see what information is requested.
+3. Read the **Quick start** section below to try the scoring helper.
+4. Explore the [endpoint-security assessment standard](assessments/endpoint-security/assessment-standard.md) as a detailed example.
+
+**Portfolio skills:** Vendor and supply-chain risk, governance, audit evidence, risk decision records, Python scoring, and documentation.
+
+**Boundaries:** This is an illustrative reference program, not evidence of completed audits of named companies. A score supports, but never replaces, professional judgment or organizational approval.
+
 ## Program objectives
 
 - Establish accountable governance for third-party and supply-chain risk.
